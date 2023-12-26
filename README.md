@@ -1,2 +1,0 @@
-# ProjetPHP
-E-commerce projet
